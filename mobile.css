@@ -262,6 +262,26 @@ input:focus, select:focus, textarea:focus{
   align-items:start;
 }
 
+.introlines {
+    font-size: 14px;
+    font-family: 'Courier New', Courier, monospace;
+    color: yellowgreen;
+}
+table {
+	color: burlywood;
+	margin-left: 150px;
+
+}
+
+table th {
+    color: red;
+    font-size: larger;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+table td {
+    margin-left: 225px;
+}
+
 .crumbs{
   color: rgba(255,255,255,0.60);
   font-size: 12px;
